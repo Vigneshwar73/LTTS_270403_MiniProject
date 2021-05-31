@@ -13,6 +13,7 @@
 ## LITERATURE REVIEW:
    * To quantify water quality, we need some parameters, measuring which we can come to a conclusion about the water quality. These parameters can be physical, chemical or biological. 
    * Indian Standard IS 10500:2012 specifies such parameters for checking drinking water’s quality. IS 10500:2012 gives several parameters, mentioning acceptable limits for each parameter and also permissible limits in the absence of alternate sources. 
+   
 |Parameter|Acceptable Limit|
 |---|---|
 |Totol Dissolved Solids, ppm| 500| 
