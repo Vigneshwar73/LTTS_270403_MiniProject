@@ -49,4 +49,4 @@
 
 System design is based on IoT Level-5 Architecture 
 
-![IOT LEVEL 5](https://github.com/Vigneshwar73/LTTS_270403_MiniProject/blob/main/1_Requirements/iot.png = 250X250)
+<img src="https://github.com/Vigneshwar73/LTTS_270403_MiniProject/blob/main/1_Requirements/iot.png" alt="IOT LEVEL 5" width="200" height="200">
