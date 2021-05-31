@@ -7,3 +7,13 @@
   * Urbanisation and growing population have increased the demand for drinking water while the quality of water has been degrading continuously.
   * The WHO says that:
        > contaminated drinking water is estimated to cause 4,85,000 diarrhoeal deaths each year.
+  * Continuous water quality monitoring is an important tool for the management authorities to ensure safe drinking water supply to people. 
+  * **The proposed water quality monitoring system consisting of basic sensors, microcontrollers, RF modules, is a compact system capable of collecting real-time data and transmitting it via wireless technology through Internet and displaying using a web application and also ensure fail-safe operation using Real-Time Operating System incorporated with the microcontroller.**
+
+## LITERATURE REVIEW:
+   * To quantify water quality, we need some parameters, measuring which we can come to a conclusion about the water quality. These parameters can be physical, chemical or biological. 
+   * Indian Standard IS 10500:2012 specifies such parameters for checking drinking water’s quality. IS 10500:2012 gives several parameters, mentioning acceptable limits for each parameter and also permissible limits in the absence of alternate sources. 
+|Parameter|Acceptable Limit|
+|---|---|
+|Totol Dissolved Solids, ppm| 500| 
+|pH Value|6.5-8.5|
