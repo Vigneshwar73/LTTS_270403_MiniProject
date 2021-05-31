@@ -16,9 +16,9 @@
     
   |Parameter|Acceptable limit| 
   |:--:|:--:|
-  |Total Dissolved Solids, ppm|
+  |Total Dissolved Solids, ppm|500|
   |pH Value|6.5-8.5|
   |Turbidity, NTU|1|
-  |Colour, Hazen units|
+  |Colour, Hazen units|5|
   |Odour| Agreeable|
   |Taste|Agreeable|
