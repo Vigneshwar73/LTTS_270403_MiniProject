@@ -46,3 +46,6 @@
 
 # Design of System
 ![System Design](https://github.com/Vigneshwar73/LTTS_270403_MiniProject/blob/main/1_Requirements/System%20design.jpg)
+
+System design is based on IoT Level-5 Architecture 
+
