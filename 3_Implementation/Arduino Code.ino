@@ -338,9 +338,10 @@ float calcFlow()
 }
 void closeValve()
 {
-  
-    digitalWrite(12, LOW);
-  
+  if(flowValue!=0)
+  {
+   digitalWrite(12, LOW);
+  }
 }
 void openValve()
 {
