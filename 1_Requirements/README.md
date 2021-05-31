@@ -43,3 +43,6 @@
 |LR_04|Email alert|Implemented|
 |LR_05|Scalabity|Implemented|
 |LR_06|Prognostic function|Future|
+
+# Design of System
+![System Design](https://github.com/Vigneshwar73/LTTS_270403_MiniProject/blob/main/1_Requirements/System%20design.jpg)
