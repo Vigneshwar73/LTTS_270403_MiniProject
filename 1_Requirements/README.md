@@ -22,3 +22,24 @@
   |Colour, Hazen units|5|
   |Odour| Agreeable|
   |Taste|Agreeable|
+
+# High Level Requirements
+
+|ID|Description|Status|
+|:--:|:--:|:--:|
+|HR_01|Collect sensor data|Implemented|
+|HR_02|Remote Monitoring| Implemented|
+|HR_03|Robust System|Implemented|
+|HR_04|Modular design|Implemented|
+
+
+# Low Level Requirements
+
+|ID|Description|Status|
+|:--:|:--:|:--:|
+|LR_01|Control Action|Implemented|
+|LR_02|Analysis of sensor data|Partially Implemented|
+|LR_03|Clean interface for website|Implemented|
+|LR_04|Email alert|Implemented|
+|LR_05|Scalabity|Implemented|
+|LR_06|Prognostic function|Future|
