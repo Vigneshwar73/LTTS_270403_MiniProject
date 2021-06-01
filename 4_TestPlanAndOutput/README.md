@@ -32,4 +32,5 @@
 |Coordinator Node|Requirement based|Combined working of components - Data receiving and publishing|Passed|
 |Web server side|Requirement based|Datalogging, visualization, analysis and display in website|Passed|
 
-REMOTE WATER QUALITY MONITORING SYSTEM - remote monitoring of live sensor data - PASSED
+
+### **REMOTE WATER QUALITY MONITORING SYSTEM - remote monitoring of live sensor data - PASSED**
