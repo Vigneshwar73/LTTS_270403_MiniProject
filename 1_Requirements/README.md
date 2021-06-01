@@ -41,7 +41,7 @@
 |LR_02|Analysis of sensor data|Partially Implemented|
 |LR_03|Clean interface for website|Implemented|
 |LR_04|Email alert|Implemented|
-|LR_05|Scalabity|Implemented|
+|LR_05|Scalability|Implemented|
 |LR_06|Prognostic function|Future|
 
 # Design of System
@@ -64,10 +64,10 @@ This system can effectively monitor the quality of water with the help of severa
 This system can be used by people who needs to monitor water quality to ensure the water is safe to drink or to utilize for other purposes.
 
 ## Where:
-This system can be used in places where we need to measure and monitor water quality like water reserviours(lakes, ponds, rivers, aquifers etc.,) and water purification units.
+This system can be used in places where we need to measure and monitor water quality like water reservoirs(lakes, ponds, rivers, aquifers etc.,) and water purification units.
 
 ## When:
-This system is useful when we need to monitor water quality parameters of multiple water bodies/ reserviours remotely which also shows trends of past data collected and shows visualisations of those data for easy monitoring. 
+This system is useful when we need to monitor water quality parameters of multiple water bodies/ reservoirs remotely which also shows trends of past data collected and shows visualizations of those data for easy monitoring. 
 
 ## How:
 This system has two separate nodes, Local node (or End node) and Coordinator Node. Local node consists of the sensors, such as TDS sensor, pH sensor, temperature sensor and flow sensor, which measures the parameters and send the data to Arduino UNO. Arduino UNO is programmed with the help of FreeRTOS, a Real Time Operating System, which adds important multi-tasking and control functionality to Arduino. Arduino is interfaced with XBee module which acts as end node and transmits data wirelessly to XBee coordinator interfaced with ESP8266 microcontroller, which has built-in Wi-Fi to publish data securely to MQTT broker. Web application which we designed will then subscribe to the topic in MQTT broker and displays it in the website. 
