@@ -14,7 +14,7 @@
 |TDS sensor|Scenario based|added salt gradually to RO water|Passed|
 |pH sensor|Scenario based|tested with solutions of known pH values|Passed|
 |Temperarture sensor|Scenario based|tested for boundary conditions|Passed|
-|Flow sensor|Requirement based|tested by varying flow rate of water|Passed|
+|Flow sensor|Scenario based|tested by varying flow rate of water|Passed|
 |Solenoid valve|Requirement based|valve opening and closing when given control signal|Passed|
 |Data logging in MQTT|Requirement based|data published to MQTT broker|Passed|
 |Data Analysis and Visualization|Requirement based|custom functions implemented|Passed|
