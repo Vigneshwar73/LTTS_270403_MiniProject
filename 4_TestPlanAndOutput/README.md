@@ -2,7 +2,7 @@
 
 ## UNIT TEST - (LOW LEVEL TEST)
 
-  * Each individual hardware component to be test and calibrated. 
+  * Each individual hardware component to be tested and calibrated. 
   * Software side program codes are tested for functionality.
 
 |Component|Test Type|Test conducted|Result|
@@ -19,3 +19,17 @@
 |Data logging in MQTT|Requirement based|data published to MQTT broker|Passed|
 |Data Analysis and Visualization|Requirement based|custom functions implemented|Passed|
 |Website|Requirement based|subscribe and display live data|Passed|
+
+
+
+## INTEGRATION TEST - (HIGH LEVEL TEST)
+
+   * The combined working of sensors, microcontrollers and web components are tested
+
+|Component|Test Type|Test conducted|Result|
+|:--:|:--:|:--:|:--:|
+|Local Node|Requirement based|Combined working of components - Data collection and Transmission|Passed|
+|Coordinator Node|Requirement based|Combined working of components - Data receiving and publishing|Passed|
+|Web server side|Requirement based|Datalogging, visualization, analysis and display in website|Passed|
+
+REMOTE WATER QUALITY MONITORING SYSTEM - remote monitoring of live sensor data - PASSED
